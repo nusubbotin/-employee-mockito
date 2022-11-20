@@ -8,10 +8,10 @@
         <version>2.7.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
+    <groupId>com.skypro</groupId>
     <artifactId>employee-mockito</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>employee-mockito</name>
+    <name>employe</name>
     <description>employee-mockito</description>
     <properties>
         <java.version>17</java.version>
